@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+groq  # For Groq API client
+python-dotenv  # Optional: For managing API keys via .env file
