@@ -1,2 +1,2 @@
-## Create your own API's in Groq
-## command:  streamlit run app.py
+## 1. Create your own API's in Groq
+## 2. command:  streamlit run app.py
